@@ -3,18 +3,16 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
+## I'm a self taught developer !!
+- 🔭 I’m currently working on my dream online bookshop.
+- 🌱 I’m currently learning Swift.
+- 👯 I’m looking for new oportunities in Spain!
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- ⚡ Fun fact: I speak roughly 3 languages (English, Spanish, French)
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.linkedin.com/in/daniel-martin-84b3015a/" />][linkedin]
 
 <br />
 
