@@ -1,4 +1,4 @@
-### Hello World, I'm Daniel  👋
+### Hello, I'm Daniel  👋
 
  <img align="right" alt="GIF" src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" />
 
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I speak roughly 3 languages (English, Spanish, French)
 
 
-### Talk with me, don't be shy!:
+### Talk with me, don't be shy!
 [<img align="left" alt="Daniel Martin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
