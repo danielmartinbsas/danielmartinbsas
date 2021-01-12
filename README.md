@@ -1,18 +1,18 @@
 ### Hello World, I'm Daniel  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://i.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.webp" width="500" height="320" />
 
 
 ## I'm a self taught developer !!
 - 🔭 I’m currently working on my dream online bookshop.
 - 🌱 I’m currently learning Swift.
-- 👯 I’m looking for new oportunities in Spain!
+- 👯 I’m looking for new oportunities in Spain (or Anywhere)!
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak roughly 3 languages (English, Spanish, French)
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Talk with me, don't be shy!:
+[<img align="left" alt="Daniel Martin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -32,21 +32,6 @@
 
 <br />
 <br />
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
 
 [instagram]: https://www.instagram.com/_intonso/
 [linkedin]: https://www.linkedin.com/in/daniel-martin-84b3015a/
