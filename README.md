@@ -1,6 +1,6 @@
 ### Hello World, I'm Daniel  👋
 
- <img align="right" alt="GIF" src="https://i.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.webp" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" width="500" height="320" />
 
 
 ## I'm a self taught developer !!
