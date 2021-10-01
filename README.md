@@ -3,9 +3,9 @@
  <img align="right" alt="GIF" src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" />
 
 
-## I'm a self taught developer !!
+## I'm a self taught Sys Admin !!
 - 🔭 I’m currently working on my dream online bookshop.
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning for my CCNA.
 - 👯 I’m looking for new oportunities in Spain (or Anywhere)!
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak roughly 3 languages (English, Spanish, French)
