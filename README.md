@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" />
 
 
-## I'm a self taught Sys Admin !!
+## I'm a self taught Sys Admin and Python developer!!
 - 🔭 I’m currently working on my dream online bookshop.
 - 🌱 I’m currently learning for my LFCS.
 - 👯 I’m looking for new oportunities in Spain (or Anywhere)!
