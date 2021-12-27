@@ -5,7 +5,7 @@
 
 ## I'm a self taught Sys Admin !!
 - 🔭 I’m currently working on my dream online bookshop.
-- 🌱 I’m currently learning for my CCNA.
+- 🌱 I’m currently learning for my LFCS.
 - 👯 I’m looking for new oportunities in Spain (or Anywhere)!
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak roughly 3 languages (English, Spanish, French)
@@ -33,6 +33,4 @@
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/_intonso/
 [linkedin]: https://www.linkedin.com/in/daniel-martin-84b3015a/
-
