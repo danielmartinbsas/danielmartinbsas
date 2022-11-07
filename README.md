@@ -3,9 +3,9 @@
  <img align="right" alt="GIF" src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" />
 
 
-## I'm a self taught Sys Admin and Python developer!!
+## I'm a self taught EVERYTHING!!
 - 🔭 I’m currently working on my dream online bookshop.
-- 🌱 I’m currently learning for my LFCS.
+- 🌱 I’m currently learning PowerBI and Unity.
 - 👯 I’m looking for new oportunities in Spain (or Anywhere)!
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak roughly 3 languages (English, Spanish, French)
