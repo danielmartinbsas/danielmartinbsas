@@ -6,8 +6,8 @@
 ## I'm a self taught EVERYTHING!!
 - 🔭 I’m currently learning my way to Data Analyst.
 - 🌱 SQL | Python | PowerBI
+- 💬 EDB Certified Associate - PostgreSQL 12
 - 👯 I’m looking for new oportunities in Spain (or Anywhere)!
-- 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak roughly 3 languages (English, Spanish, French)
 
 
