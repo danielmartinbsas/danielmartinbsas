@@ -12,7 +12,7 @@
 
 
 ### Talk with me, don't be shy!
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)
 
 <br />
 
