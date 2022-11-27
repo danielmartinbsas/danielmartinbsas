@@ -19,6 +19,6 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,py,bash,linux,js,html,css,ansible,atom,bootstrap,cs,discord,docker,git,github,kubernetes,selenium,unity,vim,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,py,linux,bash,vim,ansible,wordpress,js,html,css,bootstrap,cs,docker,kubernetes,git,github,selenium,unity,atom,vscode,discord)](https://skillicons.dev)
 
 [linkedin]: https://www.linkedin.com/in/daniel-martin-machadinho/
