@@ -13,19 +13,12 @@
 
 ### Talk with me, don't be shy!
 [<img align="left" alt="Daniel Martin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ansible,bash,atom,bootstrap,cs,discord,docker,git,github,kubernetes,linux,mysql,postgres,py,selenium,unity,vim,vscode,wordpress)](https://skillicons.dev)
-
-<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg" />
-
-<img align="left" alt="PowerBi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg" />
-
-<br />
-<br />
 
 [linkedin]: https://www.linkedin.com/in/daniel-martin-machadinho/
