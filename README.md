@@ -12,8 +12,7 @@
 
 
 ### Talk with me, don't be shy!
-[<img align="left" alt="Daniel Martin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)
 
 <br />
 
