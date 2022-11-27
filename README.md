@@ -13,6 +13,8 @@
 
 ### Talk with me, don't be shy!
 
+<a href="https://www.linkedin.com/in/daniel-martin-machadinho/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+
 <br />
 
 ### Languages and Tools:
