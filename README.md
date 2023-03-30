@@ -23,6 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmartinbsas&show_icons=true&locale=en&layout=compact" alt="danielmartinbsas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmartinbsas&show_icons=true&locale=en" alt="danielmartinbsas" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielmartinbsas" alt="danielmartinbsas" /></a> </p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=danielmartinbsas&show_icons=true&locale=en" alt="danielmartinbsas" /></p>
