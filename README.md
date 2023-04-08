@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmartinbsas&label=Profile%20views&color=0e75b6&style=flat" alt="danielmartinbsas" /> </p>
 
-- 🔭 I’m currently working on **First Game**
+- 🔭 I’m currently working on my **First Game**
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
