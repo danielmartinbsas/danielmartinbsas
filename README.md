@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmartinbsas&label=Profile%20views&color=0e75b6&style=flat" alt="danielmartinbsas" /> </p>
 
-- 🔭 I’m currently working on **Email Automation Tools**
+- 🔭 I’m currently working on **First Game**
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** and **Unity/C#**
 
 - 📫 How to reach me: **daniel.martin.bsas@gmail.com**
 
