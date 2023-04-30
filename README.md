@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on my **First Game**
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently learning **Flutter / Machine Learning and Data Science**
 
-- 💬 Ask me about **Python** and **Unity/C#**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me: **daniel.martin.bsas@gmail.com**
 
