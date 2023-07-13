@@ -1,13 +1,13 @@
 <h1 align="center">Hello! I'm Daniel Martin</h1>
-<h3 align="center">Python Developer and Data Enthusiast</h3>
+<h3 align="center">Flutter Developer and Python/Data Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmartinbsas&label=Profile%20views&color=0e75b6&style=flat" alt="danielmartinbsas" /> </p>
 
 - 🔭 I’m currently working on my **Flutter + First Game on Unity**
 
-- 🌱 I’m currently learning **Flutter / Machine Learning and Data Science**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python | Flutter**
 
 - 📫 How to reach me: **daniel.martin.bsas@gmail.com**
 
