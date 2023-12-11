@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Daniel Martin</h1>
-<h3 align="center">Flutter Developer and Python/Data Enthusiast</h3>
+<h3 align="center">Flutter/Kotlin Developer and Linux Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmartinbsas&label=Profile%20views&color=0e75b6&style=flat" alt="danielmartinbsas" /> </p>
 
-- 🔭 I’m currently working on a course selling app with **Flutter + Riverpod**
+- 🔭 I’m currently working on a book app with **Flutter**
 
 - 🌱 I’m currently learning **Flutter**
 
