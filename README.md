@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on a book app with **Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Dart | Flutter**
+- 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me: **daniel.martin.bsas@gmail.com**
 
-- ⚡ Fun fact: **Great Ex-Libris and Book Collector**
+- ⚡ Fun fact: **Ex-Libris and Book Collector**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniel-martin-machadinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-martin-machadinho" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel-martin-machadinho" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-martin-machadinho" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
