@@ -1,15 +1,15 @@
 <h1 align="center">Hello! I'm Daniel Martin</h1>
 <h3 align="center">Flutter/Kotlin Developer and Linux Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmartinbsas&label=Profile%20views&color=0e75b6&style=flat" alt="danielmartinbsas" /> </p>
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-c71610?style=for-the-badge&logo=GMAIL&labelColor=black&color=c71610&link=daniel.martin.bsas%40gmail.com">
+</p>
 
 - 🔭 I’m currently working on a book app with **Flutter**
 
 - 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Mobile Development**
-
-- 📫 How to reach me: **daniel.martin.bsas@gmail.com**
 
 - ⚡ Fun fact: **Ex-Libris and Book Collector**
 
