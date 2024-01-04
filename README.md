@@ -2,8 +2,12 @@
 <h3 align="center">Flutter/Kotlin Developer and Linux Enthusiast</h3>
 
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-c71610?style=for-the-badge&logo=GMAIL&labelColor=black&color=c71610&link=daniel.martin.bsas%40gmail.com">
+  <a href="mailto:daniel.martin.bsas@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-c71610?style=for-the-badge&logo=GMAIL&labelColor=black&color=c71610&link=daniel.martin.bsas%40gmail.com"> </a>
+  <a href="https://www.linkedin.com/in/daniel-martin-machadinho/"> 
+    <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=LINKEDIN&logoColor=BLACK&labelColor=black"> </a>
 </p>
+<br>
 
 - 🔭 I’m currently working on a book app with **Flutter**
 
@@ -13,11 +17,7 @@
 
 - ⚡ Fun fact: **Ex-Libris and Book Collector**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daniel-martin-machadinho" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-martin-machadinho" height="30" width="40" /></a>
-</p>
-
+<br>
 <h3 align="left">Technologies:</h3>
 
 ![Static Badge](https://img.shields.io/badge/KOTLIN-B125EA?style=for-the-badge&logo=KOTLIN&logoColor=B125EA&labelColor=black) 
