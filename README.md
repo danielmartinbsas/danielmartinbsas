@@ -9,11 +9,11 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on a book app with **Flutter**
+- 🔭 I’m currently working on a book app with **Jetpack Compose**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Mobile Development**
 
-- 💬 Ask me about **Mobile Development**
+- 💬 Ask me about **Life, the Universe and Everything**
 
 - ⚡ Fun fact: **Ex-Libris and Book Collector**
 
