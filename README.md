@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Daniel Martin</h1>
-<h3 align="center">Flutter/Kotlin Developer and Linux Enthusiast</h3>
+<h3 align="center">iOS Developer and Linux Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:daniel.martin.bsas@gmail.com">
@@ -9,7 +9,7 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on a book app with **Jetpack Compose**
+- 🔭 I’m currently working on a book app with **SwiftUI**
 
 - 🌱 I’m currently learning **Mobile Development**
 
